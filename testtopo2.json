@@ -1,0 +1,57 @@
+{
+	"type" : "Topology",
+	"arcs" : [
+		[
+			[ 0, 0 ],
+			[ 1461, 921 ],
+			[ 1, 1024 ],
+			[ -524, 1 ],
+			[ -325, 4 ],
+			[ -282, 7 ],
+			[ -329, 3 ],
+			[ -1, -418 ],
+			[ -1, -314 ],
+			[ 0, -386 ],
+			[ -0, -337 ],
+			[ -0, -241 ],
+			[ -0, -245 ],
+			[ -0, -19 ]
+		]
+	],
+	"objects" : {
+		"testtopo2" : {
+			"type" : "GeometryCollection",
+			"geometries" : [
+				{
+					"type" : "Polygon",
+					"arcs" : [
+						[ 0 ]
+					],
+					"properties" : {
+						"OBJECTID" : 6746,
+						"CLASS" : "Residential",
+						"CLASS_CODE" : 1,
+						"COMM_CODE" : "ABB",
+						"NAME" : "ABBEYDALE",
+						"SECTOR" : "NORTHEAST",
+						"SRG" : "ESTABLISHED",
+						"COMM_STRUCTURE" : "2000s",
+						"GLOBALID" : "{C81B5298-6E3D-47E9-A4A7-BC3DAD6E58D7}",
+						"GLOBALID_GUID" : "{C81B5298-6E3D-47E9-A4A7-BC3DAD6E58D7}",
+						"CREATED_DT" : "20161221161001",
+						"CREATED_USERID" : "JAGER",
+						"MODIFIED_ACTION" : "MODIFIED ATTRIBUTE",
+						"MODIFIED_DT" : "20230601171325",
+						"MODIFIED_USERID" : "PLTSDM",
+						"SHAPE.AREA" : 1698811.069961480097845,
+						"SHAPE.LEN" : 5795.247014497270357
+					}
+				}
+			]
+		}
+	},
+	"transform" : {
+		"scale" : [ 0.000010006842388, 0.000010005100017 ],
+		"translate" : [ -113.935138376346657, 51.047354716185282 ]
+	}
+}
